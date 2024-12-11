@@ -3,5 +3,5 @@
 
 Contains all files for the Course Project
 - Dataset (.csv)
-- Codebase (.ipynb)
+- Notebook (.ipynb)
 - Report (.pdf)
