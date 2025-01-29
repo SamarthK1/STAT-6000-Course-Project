@@ -4,4 +4,3 @@
 Contains all files for the Course Project
 - Dataset (.csv)
 - Notebook (.ipynb)
-- Report (.pdf)
